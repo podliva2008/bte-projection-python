@@ -1,2 +1,2 @@
-# bte-pymaxion
-A python implementation of tf2mandeokyi's bte-projection JS package.
+# bte-projection-python
+Rewritten BTE's Terra++ projection tiles for use as python package.
